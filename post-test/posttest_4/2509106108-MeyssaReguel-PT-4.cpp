@@ -130,8 +130,8 @@ int main() {
     int pilih;
     do {
         cout<<"\n===== MENU LOKET TIKET =====\n";
-        cout<<"1. Tambah Antrian\n";
 
+        cout<<"1. Tambah Antrian\n";
         cout<<"2. Proses Tiket\n";
         cout<<"3. Tampil Antrian\n";
         cout<<"4. Tampil Riwayat\n";
